@@ -1,18 +1,18 @@
 # movienet
 
-To run locally:
+## To run locally:
 
 ```npm install ; npm run server```
 
 ```npm run client```
 
-Technologies used:
+## Technologies used:
 
 React, webpack, babel, Apollo Client
 
 Express, Node, GraphQL
 
-File structure:
+## File structure:
 
 src
 > client
