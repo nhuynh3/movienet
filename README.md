@@ -13,7 +13,7 @@ React, webpack, babel, Apollo Client
 Express, Node, GraphQL
 
 ## File structure:
-
+```
 src
 > client
   > apollo (contains setup for apollo client and client networking management)
@@ -24,3 +24,4 @@ src
   > services
     > graphql (contains Schema, Resolvers, API logic etc.)
     > datastore (contains reduced and extracted example data js file for development)
+```
